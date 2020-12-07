@@ -7,11 +7,11 @@
 [![Header](header.png "Header")](https://twkirkpatrick.github.io/)
 
 ### A Little Bit About Me
-👨 28 years old
-🏠 Born and raised in Richmond, Virginia
-📚 Full Stack Bootcamp Student
-⛰️ Outdoor Enthusiast
-✈️ Traveler
+👨 28 years old <br>
+🏠 Born and raised in Richmond, Virginia <br>
+📚 Full Stack Bootcamp Student <br>
+⛰️ Outdoor Enthusiast <br>
+✈️ Traveler <br>
 🪕 Music Lover
 
 ### 🛠️ What's In My Toolbox?
