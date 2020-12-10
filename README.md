@@ -21,6 +21,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkirkpatrick&theme=react&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
+### ✍️ Contact
+✉️ twk4491@gmail.com <br>
+📱 (804) 305-2701 <br>
+🔗 <a href="https://www.linkedin.com/in/tannerkirk/">https://www.linkedin.com/in/tannerkirk</a>
+
+
+
 
 
 
