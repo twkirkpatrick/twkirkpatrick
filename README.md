@@ -1,6 +1,6 @@
 ## Hey guys! 👋 I'm Tanner.
 
-#### AS an aspiring software developer <br>
+#### AS a junior software developer <br>
 
 #### I AM excited to incorporate my skills into the professional realm of software development <br>
 
