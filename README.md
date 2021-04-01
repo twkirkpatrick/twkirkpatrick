@@ -6,7 +6,7 @@
 
 👨 28 years old <br>
 🏠 Born and raised in Richmond, Virginia <br>
-📚 Full Stack Bootcamp Student <br>
+💻 Front-End Developer <br>
 ⛰️ Outdoor Enthusiast <br>
 ✈️ Traveler <br>
 🪕 Music Lover
