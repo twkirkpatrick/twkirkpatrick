@@ -1,11 +1,5 @@
 ## Hey guys! 👋 I'm Tanner.
 
-#### AS a junior software developer <br>
-
-#### I AM excited to incorporate my skills into the professional realm of software development <br>
-
-#### SO THAT I can solve real-world problems with the production of quality software
-
 [![Header](header.png "Header")](https://www.tannerkirkpatrick.com)
 
 ### A Little Bit About Me
